@@ -1,4 +1,4 @@
-package org.ron.c130.intro;
+package org.ron.c130.my1stOOP;
 import java.util.Scanner;
 
 public class FizzBuzz {
